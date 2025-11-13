@@ -1,0 +1,32 @@
+{
+  "title": "DeepAI Code Snippet",
+  "description": "",
+  "head": "<meta charset=\"UTF-8\" />\n<meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\" />",
+  "htmlAttrs": "lang=\"en\" class=\"\"",
+  "tags": [],
+  "activeEditor": "script",
+  "markup": {
+    "language": "html",
+    "content": ""
+  },
+  "style": {
+    "language": "css",
+    "content": ""
+  },
+  "script": {
+    "language": "javascript",
+    "content": "Yo, I engineer verses with Planck-scale Planck-constant precision/\nSyntax crystallized beyond earthly quantum-field division/\nVocabulary warps spacetime multiversal continuum/\nGrammatical gravity makes weak flows become vacuum/"
+  },
+  "stylesheets": [],
+  "scripts": [],
+  "cssPreset": "",
+  "processors": [],
+  "customSettings": {},
+  "imports": {},
+  "types": {},
+  "tests": {
+    "language": "typescript",
+    "content": ""
+  },
+  "version": "47"
+}
